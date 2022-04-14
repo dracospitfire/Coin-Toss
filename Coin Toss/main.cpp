@@ -41,11 +41,9 @@ int main()                 //marks the begining of a function
         if (coin_toss == 2)
             cout << "\tTails\n";
     }
-    
     cout << "\n\n\t";
     return 0;
 }
-
 int heads_or_tails()
 {
     int rnum;
