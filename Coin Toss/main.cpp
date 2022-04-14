@@ -1,6 +1,5 @@
 /*
   Coin-Toss.cpp
-
   Created by Austin Flores on 12/9/13.
   Copyright (c) 2013 dracospitfire All rights reserved.
 */
